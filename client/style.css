@@ -52,6 +52,7 @@ body {
 
 .ai {
   background: #40414F;
+  border-radius: 10px;
 }
 
 .chat {
